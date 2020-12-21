@@ -1,4 +1,9 @@
-@import url("normalize.css");
-@import url("navigation.css");
-@import url("footer.css");
-@import url("media-queries.css");
+
+body{
+    width: 80%;
+    margin: 0 auto;
+    display: grid;
+}
+
+
+@media
